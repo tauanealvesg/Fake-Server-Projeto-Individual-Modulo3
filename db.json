@@ -43,24 +43,24 @@
         },
         {
             "id": 2,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Gênero": "terror", 
+            "Título": "Contos da Cripta",
+            "Autor(a)": "William Gaines",
+            "Ano de Publicação": 1950
         },
         {
             "id": 3,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Gênero": "romance", 
+            "Título": "Maus: a história de um sobrevivente",
+            "Autor(a)": "Art Spielgeman",
+            "Ano de Publicação": 1980
         },
         {
-            "id": 3,
+            "id": 4,
             "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Título": "Duna: Graphic Novel",
+            "Autor(a)": "Frank Hebert",
+            "Ano de Publicação": 2021 
         }
         
     ], 
@@ -74,24 +74,24 @@
         },
         {
             "id": 2,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
+            "Gênero": "Kodomo", 
+            "Título": "Doraemon",
             "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Ano de Publicação": 1969
         },
         {
             "id": 3,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
+            "Gênero": "Shoujo", 
+            "Título": "Bokura ga ita",
             "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Ano de Publicação": 2006
         },
         {
             "id": 4,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Gênero": "Yuri", 
+            "Título": "Sasaki, sua idiota",
+            "Autor(a)": "Yuni",
+            "Ano de Publicação": 2022 
         }
     ]
 }
