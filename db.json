@@ -1,0 +1,103 @@
+{
+    "Livros": [
+        {
+            "id": 1,
+            "Gênero": "romance", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998
+
+        },
+        {
+           
+            "id": 2,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+            
+        },
+        {
+            "id": 3,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        },
+        {
+            "id": 4,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        }
+    ],
+    "Gibi": [
+        {
+            "id": 1,
+            "Gênero": "infantil", 
+            "Título": "Turma da Mônica",
+            "Autor": "Maurício de Souza",
+            "Ano de Publicação": 1959
+
+        },
+        {
+            "id": 2,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        },
+        {
+            "id": 3,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        },
+        {
+            "id": 3,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        },
+        {
+            "id": 4,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        }
+    ], 
+    "Manga":[
+        {
+            "id": 1,
+            "Gênero": "Shounen", 
+            "Título": "Naruto",
+            "Autor": "Massashi Kishimoto",
+            "Ano de Publicação": 1997
+        },
+        {
+            "id": 2,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        },
+        {
+            "id": 3,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        },
+        {
+            "id": 4,
+            "Gênero": "ficção-científica", 
+            "Título": "Um Amor Para Recordar",
+            "Autor(a)": "Nicholas Sparks",
+            "Ano de Publicação": 1998 
+        }
+    ]
+}
