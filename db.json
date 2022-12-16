@@ -3,33 +3,33 @@
         {
             "id": 1,
             "Gênero": "romance", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998
+            "Título": "O cortiço",
+            "Autor(a)": "Aluísio Azevedo",
+            "Ano de Publicação": 1890
 
         },
         {
            
             "id": 2,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Gênero": "Poesia", 
+            "Título": "Divina Comédia",
+            "Autor(a)": "Dante Alighieri",
+            "Ano de Publicação": 1304
             
         },
         {
             "id": 3,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
+            "Gênero": "Crônica", 
+            "Título": "A Descoberta do Mundo",
             "Autor(a)": "Nicholas Sparks",
             "Ano de Publicação": 1998 
         },
         {
             "id": 4,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
+            "Gênero": "ficção", 
+            "Título": "Noite na Taverna",
+            "Autor(a)": "Álvares de Azevedo",
+            "Ano de Publicação": 1855
         }
     ],
     "Gibi": [
@@ -61,14 +61,8 @@
             "Título": "Um Amor Para Recordar",
             "Autor(a)": "Nicholas Sparks",
             "Ano de Publicação": 1998 
-        },
-        {
-            "id": 4,
-            "Gênero": "ficção-científica", 
-            "Título": "Um Amor Para Recordar",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
         }
+        
     ], 
     "Manga":[
         {
