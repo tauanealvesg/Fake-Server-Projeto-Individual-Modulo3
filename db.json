@@ -2,35 +2,43 @@
     "Livros": [
         {
             "id": 1,
-            "Gênero": "romance", 
-            "Título": "O cortiço",
-            "Autor(a)": "Aluísio Azevedo",
-            "Ano de Publicação": 1890
-
-        },
-        {
-           
+            "Título": "O Mercador de Veneza",
+            "Autor(a)": "William Shakespeare",
+            "Preço": 15.00,
+            "Sinopse": "Na cidade de Veneza, no século XVI, Bassânio pede ao mercador Antônio três mil ducados emprestados para poder cortejar Pórcia, uma rica herdeira de Belmonte. Não tendo recursos imediatos para auxiliar o amigo, Antônio decide pedir um empréstimo a Shylock, um judeu agiota e seu inimigo. ",
+            "Gênero": "Comédia",
+             "Ano de Publicação": 1598
+          },
+          {
+            
             "id": 2,
-            "Gênero": "Poesia", 
+            "Título": "O Assassinato de Roger Ackroyd",
+            "Autor(a)": "Agatha Christie",
+            "Preço": 20.00,
+            "Sinopse": "A morte do fidalgo industrial é a terceira de uma misteriosa sequência de crimes, iniciada com a de Ashley Ferrars, que pode ter sido causada ou por uma ingestão acidental de soníferos ou envenenamento articulado por sua esposa – esta, aliás, completa a sequência de mortes, num provável suicídio.",
+            "Gênero": "Mistério, Ficção Policial",
+             "Ano de Publicação": 1926
+          },
+          {
+         
+            "id": 3,
             "Título": "Divina Comédia",
             "Autor(a)": "Dante Alighieri",
-            "Ano de Publicação": 1304
-            
-        },
-        {
-            "id": 3,
-            "Gênero": "Crônica", 
-            "Título": "A Descoberta do Mundo",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1998 
-        },
-        {
+            "Preço": 50.00,
+            "Sinopse": "O livro relata a viagem de Dante ao Inferno, ao Purgatório e ao Paraíso. O poeta Virgílio o acompanha tanto ao inferno – um vale nas entranhas da terra – como ao Purgatório, local onde as almas se purificam dos pecados capitais. Beatriz, a musa de Dante, o conduz ao Paraíso, formado por nove céus.",
+            "Gênero": "Poeesia",
+             "Ano de Publicação": 1975
+          },
+          {
+         
             "id": 4,
-            "Gênero": "ficção", 
-            "Título": "Noite na Taverna",
-            "Autor(a)": "Álvares de Azevedo",
-            "Ano de Publicação": 1855
-        }
+            "Título": "Canção do Exílio",
+            "Autor(a)": "Gonçalves Dias",
+            "Preço": 30.00,
+            "Sinopse": "Um dos poemas nacionais mais famosos tematiza a saudade de quem está longe do seu país. A cor local, expressa pelo cenário da natureza, constrói o Brasil como um lugar paradisíaco sobre o qual se sente nostalgia e desejo de retorno: “Não permita Deus que eu morra / Sem que eu volte para lá”.",
+            "Gênero": "Poema",
+             "Ano de Publicação": 1846
+          }
     ],
     "Gibi": [
         {
