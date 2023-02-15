@@ -4,6 +4,7 @@
             "id": 1,
             "título": "O Mercador de Veneza",
             "autor": "William Shakespeare",
+            "capa": "https://github.com/tauanealvesg/Fake-Server-Projeto-Individual-Modulo3/blob/main/assets/mercador.jpg",
             "preço": 15.00,
             "sinopse": "Na cidade de Veneza, no século XVI, Bassânio pede ao mercador Antônio três mil ducados emprestados para poder cortejar Pórcia, uma rica herdeira de Belmonte. Não tendo recursos imediatos para auxiliar o amigo, Antônio decide pedir um empréstimo a Shylock, um judeu agiota e seu inimigo. ",
             "gênero": "Comédia",
@@ -14,6 +15,7 @@
             "id": 2,
             "título": "O Assassinato de Roger Ackroyd",
             "autor": "Agatha Christie",
+            "capa": "https://github.com/tauanealvesg/Fake-Server-Projeto-Individual-Modulo3/blob/main/assets/roger.jpg",
             "preço": 20.00,
             "sinopse": "A morte do fidalgo industrial é a terceira de uma misteriosa sequência de crimes, iniciada com a de Ashley Ferrars, que pode ter sido causada ou por uma ingestão acidental de soníferos ou envenenamento articulado por sua esposa – esta, aliás, completa a sequência de mortes, num provável suicídio.",
             "gênero": "Mistério, Ficção Policial",
@@ -24,6 +26,7 @@
             "id": 3,
             "título": "Divina Comédia",
             "autor": "Dante Alighieri",
+            "capa": "https://github.com/tauanealvesg/Fake-Server-Projeto-Individual-Modulo3/blob/main/assets/divina.jpg",
             "preço": 50.00,
             "sinopse": "O livro relata a viagem de Dante ao Inferno, ao Purgatório e ao Paraíso. O poeta Virgílio o acompanha tanto ao inferno – um vale nas entranhas da terra – como ao Purgatório, local onde as almas se purificam dos pecados capitais. Beatriz, a musa de Dante, o conduz ao Paraíso, formado por nove céus.",
             "gênero": "Poeesia",
@@ -34,10 +37,32 @@
             "id": 4,
             "título": "Canção do Exílio",
             "autor": "Gonçalves Dias",
+            "capa": "https://github.com/tauanealvesg/Fake-Server-Projeto-Individual-Modulo3/blob/main/assets/exilio.jpg",
             "preço": 30.00,
             "sinopse": "Um dos poemas nacionais mais famosos tematiza a saudade de quem está longe do seu país. A cor local, expressa pelo cenário da natureza, constrói o Brasil como um lugar paradisíaco sobre o qual se sente nostalgia e desejo de retorno: “Não permita Deus que eu morra / Sem que eu volte para lá”.",
             "gênero": "Poema",
              "ano de publicação": 1846
+          }
+          {
+         
+            "id": 4,
+            "título": " A volta ao Mundo em 80 Dias",
+            "autor": " Júlio Verne",
+            "capa": "https://github.com/tauanealvesg/Fake-Server-Projeto-Individual-Modulo3/blob/main/assets/mundo.jpg",
+            "preço": 80.00,
+            "sinopse": "Na cidade de Veneza, no século XVI, Bassânio pede ao mercador Antônio três mil ducados emprestados para poder cortejar Pórcia, uma rica herdeira de Belmonte. Não tendo recursos imediatos para auxiliar o amigo, Antônio decide pedir um empréstimo a Shylock, um judeu agiota e seu inimigo.",
+             "ano de publicação": 1872
+          }
+          {
+         
+            "id": 4,
+            "título": "O Crime do Padre Amaro",
+            "autor": "Eça de Queiroz",
+            "capa": "https://github.com/tauanealvesg/Fake-Server-Projeto-Individual-Modulo3/blob/main/assets/padre.jpg",
+            "preço": 10.00,
+            "sinopse": "O Crime do Padre Amaro retrata a corrupção moral dos membros do clero, contrapondo os mandamentos da Igreja Católica com os comportamentos dos padres descritos por Eça. A trama se centra sobretudo no romance proibido entre Amaro, padre jovem que chega à cidade de Leiria, e Amélia, filha da dona da pensão que o recebe.",
+            "gênero": "Poema",
+             "ano de publicação": 1875
           }
     ],
     "Gibi": [
