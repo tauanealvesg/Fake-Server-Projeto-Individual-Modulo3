@@ -2,73 +2,73 @@
     "Livros": [
         {
             "id": 1,
-            "Título": "O Mercador de Veneza",
-            "Autor(a)": "William Shakespeare",
-            "Preço": 15.00,
-            "Sinopse": "Na cidade de Veneza, no século XVI, Bassânio pede ao mercador Antônio três mil ducados emprestados para poder cortejar Pórcia, uma rica herdeira de Belmonte. Não tendo recursos imediatos para auxiliar o amigo, Antônio decide pedir um empréstimo a Shylock, um judeu agiota e seu inimigo. ",
-            "Gênero": "Comédia",
-             "Ano de Publicação": 1598
+            "título": "O Mercador de Veneza",
+            "autor": "William Shakespeare",
+            "preço": 15.00,
+            "sinopse": "Na cidade de Veneza, no século XVI, Bassânio pede ao mercador Antônio três mil ducados emprestados para poder cortejar Pórcia, uma rica herdeira de Belmonte. Não tendo recursos imediatos para auxiliar o amigo, Antônio decide pedir um empréstimo a Shylock, um judeu agiota e seu inimigo. ",
+            "gênero": "Comédia",
+             "ano de publicação": 1598
           },
           {
             
             "id": 2,
-            "Título": "O Assassinato de Roger Ackroyd",
-            "Autor(a)": "Agatha Christie",
-            "Preço": 20.00,
-            "Sinopse": "A morte do fidalgo industrial é a terceira de uma misteriosa sequência de crimes, iniciada com a de Ashley Ferrars, que pode ter sido causada ou por uma ingestão acidental de soníferos ou envenenamento articulado por sua esposa – esta, aliás, completa a sequência de mortes, num provável suicídio.",
-            "Gênero": "Mistério, Ficção Policial",
-             "Ano de Publicação": 1926
+            "título": "O Assassinato de Roger Ackroyd",
+            "autor": "Agatha Christie",
+            "preço": 20.00,
+            "sinopse": "A morte do fidalgo industrial é a terceira de uma misteriosa sequência de crimes, iniciada com a de Ashley Ferrars, que pode ter sido causada ou por uma ingestão acidental de soníferos ou envenenamento articulado por sua esposa – esta, aliás, completa a sequência de mortes, num provável suicídio.",
+            "gênero": "Mistério, Ficção Policial",
+             "ano de publicação": 1926
           },
           {
          
             "id": 3,
-            "Título": "Divina Comédia",
-            "Autor(a)": "Dante Alighieri",
-            "Preço": 50.00,
-            "Sinopse": "O livro relata a viagem de Dante ao Inferno, ao Purgatório e ao Paraíso. O poeta Virgílio o acompanha tanto ao inferno – um vale nas entranhas da terra – como ao Purgatório, local onde as almas se purificam dos pecados capitais. Beatriz, a musa de Dante, o conduz ao Paraíso, formado por nove céus.",
-            "Gênero": "Poeesia",
-             "Ano de Publicação": 1975
+            "título": "Divina Comédia",
+            "autor": "Dante Alighieri",
+            "preço": 50.00,
+            "sinopse": "O livro relata a viagem de Dante ao Inferno, ao Purgatório e ao Paraíso. O poeta Virgílio o acompanha tanto ao inferno – um vale nas entranhas da terra – como ao Purgatório, local onde as almas se purificam dos pecados capitais. Beatriz, a musa de Dante, o conduz ao Paraíso, formado por nove céus.",
+            "gênero": "Poeesia",
+             "ano de publicação": 1975
           },
           {
          
             "id": 4,
-            "Título": "Canção do Exílio",
-            "Autor(a)": "Gonçalves Dias",
-            "Preço": 30.00,
-            "Sinopse": "Um dos poemas nacionais mais famosos tematiza a saudade de quem está longe do seu país. A cor local, expressa pelo cenário da natureza, constrói o Brasil como um lugar paradisíaco sobre o qual se sente nostalgia e desejo de retorno: “Não permita Deus que eu morra / Sem que eu volte para lá”.",
-            "Gênero": "Poema",
-             "Ano de Publicação": 1846
+            "título": "Canção do Exílio",
+            "autor": "Gonçalves Dias",
+            "preço": 30.00,
+            "sinopse": "Um dos poemas nacionais mais famosos tematiza a saudade de quem está longe do seu país. A cor local, expressa pelo cenário da natureza, constrói o Brasil como um lugar paradisíaco sobre o qual se sente nostalgia e desejo de retorno: “Não permita Deus que eu morra / Sem que eu volte para lá”.",
+            "gênero": "Poema",
+             "ano de publicação": 1846
           }
     ],
     "Gibi": [
         {
             "id": 1,
-            "Gênero": "infantil", 
-            "Título": "Turma da Mônica",
-            "Autor": "Maurício de Souza",
+            "gênero": "infantil", 
+            "título": "Turma da Mônica",
+            "autor": "Maurício de Souza",
             "Ano de Publicação": 1959
 
         },
         {
             "id": 2,
-            "Gênero": "terror", 
-            "Título": "Contos da Cripta",
-            "Autor(a)": "William Gaines",
-            "Ano de Publicação": 1950
+            "gênero": "terror", 
+            "título": "Contos da Cripta",
+            "autor": "William Gaines",
+            "ano de publicação": 1950
         },
         {
             "id": 3,
-            "Gênero": "romance", 
-            "Título": "Maus: a história de um sobrevivente",
-            "Autor(a)": "Art Spielgeman",
-            "Ano de Publicação": 1980
+            "gênero": "romance", 
+            "título": "Maus: a história de um sobrevivente",
+            "autor": "Art Spielgeman",
+            "ano de publicação": 1980
         },
         {
             "id": 4,
-            "Gênero": "ficção-científica", 
-            "Título": "Duna: Graphic Novel",
-            "Autor(a)": "Frank Hebert",
-            "Ano de Publicação": 2021 
+            "gênero": "ficção-científica", 
+            "título": "Duna: Graphic Novel",
+            "autor": "Frank Hebert",
+            "ano de publicação": 2021 
         }
         
     ], 
@@ -76,30 +76,30 @@
         {
             "id": 1,
             "Gênero": "Shounen", 
-            "Título": "Naruto",
-            "Autor": "Massashi Kishimoto",
-            "Ano de Publicação": 1997
+            "título": "Naruto",
+            "Autor(a)": "Massashi Kishimoto",
+            "ano de publicação": 1997
         },
         {
             "id": 2,
-            "Gênero": "Kodomo", 
-            "Título": "Doraemon",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 1969
+            "gênero": "Kodomo", 
+            "título": "Doraemon",
+            "autor": "Nicholas Sparks",
+            "ano de publicação": 1969
         },
         {
             "id": 3,
-            "Gênero": "Shoujo", 
-            "Título": "Bokura ga ita",
-            "Autor(a)": "Nicholas Sparks",
-            "Ano de Publicação": 2006
+            "gênero": "Shoujo", 
+            "título": "Bokura ga ita",
+            "autor": "Nicholas Sparks",
+            "ano de publicação": 2006
         },
         {
             "id": 4,
-            "Gênero": "Yuri", 
-            "Título": "Sasaki, sua idiota",
-            "Autor(a)": "Yuni",
-            "Ano de Publicação": 2022 
+            "gênero": "Yuri", 
+            "título": "Sasaki, sua idiota",
+            "autor": "Yuni",
+            "ano de publicação": 2022 
         }
     ]
 }
